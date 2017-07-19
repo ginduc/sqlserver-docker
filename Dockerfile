@@ -1,4 +1,4 @@
-FROM microsoft/mssql-server-linux:ctp-2.0
+FROM microsoft/mssql-server-linux:latest
 MAINTAINER gian@dynamicobjx.com
 
 COPY . /usr/src/db
