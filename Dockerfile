@@ -1,4 +1,4 @@
-FROM microsoft/mssql-server-linux:latest
+FROM microsoft/mssql-server-linux:rc1
 MAINTAINER gian@dynamicobjx.com
 
 COPY . /usr/src/db
