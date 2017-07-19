@@ -1,5 +1,4 @@
 #!/bin/bash
 
-sh /opt/mssql/bin/sqlservr
- 
+sh /var/opt/mssql/sqlservr
 
